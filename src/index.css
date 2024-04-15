@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: system-ui;
+  font-size: 3vh;
+  width: 90vw;
+  height: 98vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
